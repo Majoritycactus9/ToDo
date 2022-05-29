@@ -1,3 +1,3 @@
 # ToDo
 
-Simple To Do / Reminder app
+En enkel kom ihåg app
